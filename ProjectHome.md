@@ -1,0 +1,1 @@
+The current CHDK basic interpreter only allows single letter variables (a-z and A-Z). By modifying a few c files in the CHDK branch this version of the interpreter will now accept longer variables names. There are a few caveats that must be followed (see the README.TXT). If someone finds this useful feel free to try it out.
